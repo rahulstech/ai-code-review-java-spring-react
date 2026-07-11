@@ -1,0 +1,7 @@
+.venv
+__pycache__
+report/
+build/
+!.gitkeep
+tools/
+main.py
